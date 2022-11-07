@@ -1,7 +1,7 @@
 
 # About the project
 [Here is my github](https://github.com/bjornsjodin/IODS-project)
-I heard about the course from an email to my university address. I am still **very confused**. As an anthropologist I am mainly used to qualitative data, and wanted to learn more about quantitative date. I found it useful to read through chapter one of _Multivariate Analysis for the Behavioral Sciences_, as it gave a good introduction to different forms of statistics. 
+I heard about the course from an email to my university address. I am still **very confused**. As an anthropologist I am mainly used to qualitative data, and wanted to learn more about quantitative data. I found it useful to read through chapter one of _Multivariate Analysis for the Behavioral Sciences_, as it gave a good introduction to different forms of statistics. 
 
 ```{r}
 # This is a so-called "R chunk" where you can write R code.
